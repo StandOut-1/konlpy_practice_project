@@ -22,3 +22,7 @@ PyTorch Tensor 변환
 작성한 모든 내용을 깃허브에 푸시하시오.
 
 내일 수업 시작 전까지 깃 주소를 디스코드 '실시간' 채널에 업로드하시오.
+
+
+## 완료.
+<img width="641" height="694" alt="image" src="https://github.com/user-attachments/assets/cfa3259d-700d-4e95-8113-b7b999030d9c" />
